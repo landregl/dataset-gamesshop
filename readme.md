@@ -10,7 +10,10 @@
 - [ ] Transformar dados de vendas em informações relevantes para a fabricante;
 - [ ] Verificar quais são os produtos com maiores vendas em dólar em cada país;
 - [ ] Verificar quais o total de vendas em dólar em cada país;
-- [ ] Traçar o perfil de vendas por produto e por país. 
+- [ ] Traçar o perfil de vendas por produto e por país.
+
+## Tecnologia para consolidação analítica utilizada:
+- Microsoft Copilot
 
 ## 🌎 Total de vendas em moeda local e em dólar (decrescente), por país:
 
